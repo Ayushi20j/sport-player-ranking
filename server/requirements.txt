@@ -1,0 +1,6 @@
+fastapi[all]
+uvicorn[standard]
+requests
+Flask-Cors
+boto3
+Flask
