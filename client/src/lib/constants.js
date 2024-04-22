@@ -1,6 +1,7 @@
 export const APP_NAME = "SportsBug";
 
-export const API_URL = "http://54.247.209.223:8000";
+export const API_URL =
+  "http://sport-backend-x22227041-1615953102.eu-west-1.elb.amazonaws.com";
 
 export const CLASSMATE_API =
   "https://34kremxbzd.execute-api.us-east-1.amazonaws.com/dev/levelcheck?hobby=";

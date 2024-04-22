@@ -10,9 +10,6 @@ const Footer = () => {
                     <Link href="/" className="text-white font-bold text-xl">
                         {APP_NAME}
                     </Link>
-                    <p className="text-white mt-2">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    </p>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     <div>
